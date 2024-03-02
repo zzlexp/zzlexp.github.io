@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Distance-Aware Test Input Selection for Deep Neural Networks", 
+        "author": ["Zhong Li", "Zhengfeng Xu", "Ruihua Ji", "Minxue Pan", "Tian Zhang", "Linzhang Wang", "Xuandong Li"], 
+        "year": "2024",
+        "publisher": "In the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)",
+        "tier": "CCF-A",
+        "url": "",
+        "highlight": false,
+        "equal": false
+    }, 
+    {
+        "title": "Deep is Better? An Empirical Comparison of Information Retrieval and Deep Learning Approaches to Code Summarization", 
+        "author": ["Tingwei Zhu", "Zhong Li", "Minxue Pan", "Chaoxuan Shi", "Tian Zhang", "Yu Pei", "Xuandong Li"],
+        "year": "2023",
+        "publisher": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+        "tier": "CCF-A",
+        "url": "https://dl.acm.org/doi/10.1145/3631975",
+        "highlight": false,
+        "equal": false
+    }, 
+    {
+        "title": "Deeply Reinforcing Android GUI Testing with Deep Reinforcement Learning",
+        "author": ["Yuanhong Lan", "Yifei Lu", "Zhong Li", "Minxue Pan", "Wenhua Yang", "Tian Zhang", "Xuandong Li"],
+        "year": "2024",
+        "publisher": "In the IEEE/ACM International Conference on Software Engineering (ICSE)",
+        "tier": "CCF-A",
+        "url": "https://dl.acm.org/doi/10.1145/3597503.3623344",
+        "highlight": false, 
+        "equal": false
+    },
+    {
+        "title": "Empirically revisiting and enhancing automatic classification of bug and non-bug issues",
+        "author": ["Zhong Li", "Minxue Pan", "Yu Pei", "Tian Zhang", "Linzhang Wang", "Xuandong Li"],
+        "year": "2024",
+        "publisher": "Frontiers of Computer Science (FCS)",
+        "tier": "CCF-B",
+        "url": "https://link.springer.com/article/10.1007/s11704-023-2771-z",
+        "highlight": false, 
+        "equal": false
+    },
+    {
+        "title": "Mobile Test Script Generation from Natural Language Descriptions", 
+        "author": ["Chun Li", "Yifan Xiong", "Zhong Li", "Wenhua Yang", "Minxue Pan"],
+        "year": "2023",
+        "publisher": "In the IEEE International Conference on Software Quality, Reliability, and Security (QRS)",
+        "tier": "CCF-C",
+        "url": "https://ieeexplore.ieee.org/document/9797322",
+        "highlight": false,
+        "equal": false
+    }, 
+    {
+        "title": "Robust Learning of Deep Predictive Models from Noisy and Imbalanced Software Engineering Datasets",
+        "author": ["Zhong Li", "Minxue Pan", "Yu Pei", "Tian Zhang", "Linzhang Wang", "Xuandong Li"],
+        "year": "2022",
+        "publisher": "In the IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+        "tier": "CCF-A",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3551349.3556941",
+        "highlight": false, 
+        "equal": false
+    },
+    {
+        "title": "DeepLabel: Automated Issue Classification for Issue Tracking Systems", 
+        "author": ["Zhong Li", "Minxue Pan", "Yu Pei", "Tian Zhang", "Linzhang Wang", "Xuandong Li"],
+        "year": "2022",
+        "publisher": "In the Asia-Pacific Symposium on Internetware (Internetware)",
+        "tier": "CCF-C",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3545258.3545276",
+        "highlight": false,
+        "equal": false
+    }, 
+    {
+        "title": "Testing DNN-based Autonomous Driving Systems under Critical Environmental Conditions",
+        "author": ["Zhong Li", "Minxue Pan", "Yu Pei", "Tian Zhang", "Linzhang Wang", "Xuandong Li"],
+        "year": "2021",
+        "publisher": "In the International Conference on Machine Learning (ICML)",
+        "tier": "CCF-A",
+        "url": "http://proceedings.mlr.press/v139/li21r.html",
+        "highlight": false, 
+        "equal": false
+    },
+    {
+        "title": "GUI-Guided Test Script Repair for Mobile Apps",
+        "author": ["Minxue Pan", "Tongtong Xu", "Yu Pei", "Zhong Li", "Tian Zhang", "Xuandong Li"],
+        "year": "2023",
+        "publisher": "IEEE Transactions on Software Engineering (TSE)",
+        "tier": "CCF-A",
+        "url": "https://ieeexplore.ieee.org/document/9136844",
+        "highlight": false, 
+        "equal": false
+    },
+    {
+        "title": "Uncovering Unknown System Behaviors in Uncertain Networks with Model and Search-Based Testing",
+        "author": ["Ruihua Ji", "Zhong Li", "Shouyu Chen", "Minxue Pan", "Tian Zhang", "Shaukat Ali", "Tao Yue", "Xuandong Li"],
+        "year": "2018",
+        "publisher": "In the IEEE International Conference on Software Testing, Verification and Validation (ICST)",
+        "tier": "CCF-A",
+        "url": "https://ieeexplore.ieee.org/document/9136844",
+        "highlight": false, 
+        "equal": false
+    }
+]
