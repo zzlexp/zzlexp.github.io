@@ -1,5 +1,15 @@
 [
     {
+        "title": "Mitigating the Impact of Mislabeled Data on Deep Predictive Models: An Empirical Study of Learning with Noise Approaches in Software Engineering Tasks", 
+        "author": ["Jian Shen", "Zhong Li", "Yifei Lu", "Minxue Pan", "Xuandong Li"], 
+        "year": "2024",
+        "publisher": "Automated Software Engineering (ASEJ)",
+        "tier": "CCF-B",
+        "url": "",
+        "highlight": false,
+        "equal": false
+    }, 
+    {
         "title": "Distance-Aware Test Input Selection for Deep Neural Networks", 
         "author": ["Zhong Li", "Zhengfeng Xu", "Ruihua Ji", "Minxue Pan", "Tian Zhang", "Linzhang Wang", "Xuandong Li"], 
         "year": "2024",
