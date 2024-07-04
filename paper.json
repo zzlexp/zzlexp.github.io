@@ -1,11 +1,41 @@
 [
     {
+        "title": "Enhancing Fault Localization in Industrial Software Systems via Contrastive Learning.", 
+        "author": ["Chun Li", "Hui Li", "Zhong Li", "Minxue Pan", "Xuandong Li"], 
+        "year": "2025",
+        "publisher": "In the IEEE/ACM International Conference on Software Engineering (ICSE)",
+        "tier": "CCF-A",
+        "url": "",
+        "highlight": false, 
+        "equal": false
+    }, 
+    {
+        "title": "Precos: Project-specific Retrieval for Better Code Summarization", 
+        "author": ["Tingwei Zhu", "Zhong Li", "Tian Zhang", "Minxue Pan", "Xuandong Li"], 
+        "year": "2024",
+        "publisher": "In the IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+        "tier": "CCF-B",
+        "url": "",
+        "highlight": false,
+        "equal": false
+    }, 
+    {
+        "title": "Repairing Obsolete GUI Test Scripts for Android Applications with Exploration and Backtracking", 
+        "author": ["Ruihua Ji", "Zhengxuan Qian", "Zhong Li", "Xiaoqing Zhu", "Yu Pei", "Minxue Pan", "Tian Zhang"], 
+        "year": "2024",
+        "publisher": "In the Asia-Pacific Symposium on Internetware (Internetware)",
+        "tier": "CCF-C",
+        "url": "",
+        "highlight": false,
+        "equal": false
+    }, 
+    {
         "title": "Mitigating the Impact of Mislabeled Data on Deep Predictive Models: An Empirical Study of Learning with Noise Approaches in Software Engineering Tasks", 
         "author": ["Jian Shen", "Zhong Li", "Yifei Lu", "Minxue Pan", "Xuandong Li"], 
         "year": "2024",
         "publisher": "Automated Software Engineering (ASEJ)",
         "tier": "CCF-B",
-        "url": "",
+        "url": "https://link.springer.com/article/10.1007/s10515-024-00435-y",
         "highlight": false,
         "equal": false
     }, 
