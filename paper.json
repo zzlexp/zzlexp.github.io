@@ -1,19 +1,9 @@
 [
     {
-        "title": "AACEGEN: Attention Guided Adversarial Code Example Generation for Deep Code Models.", 
-        "author": ["Zhong Li", "Chong Zhang", "Minxue Pan", "Tian Zhang", "Xuandong Li"], 
-        "year": "2024",
-        "publisher": "In the IEEE/ACM International Conference on Automated Software Engineering (ASE)",
-        "tier": "CCF-A",
-        "url": "",
-        "highlight": false, 
-        "equal": false
-    }, 
-    {
-        "title": "Prioritizing Test Inputs for DNNs Using Training Dynamics.", 
-        "author": ["Jian Shen", "Zhong Li", "Minxue Pan", "Xuandong Li"], 
-        "year": "2024",
-        "publisher": "In the IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+        "title": " GVI: Guided Vulnerability Imagination for Boosting Deep Vulnerability Detectors", 
+        "author": ["Heng Yong", "Zhong Li", "Minxue Pan", "Tian Zhang", "Jianhua Zhao", "Xuandong Li"], 
+        "year": "2025",
+        "publisher": "In the IEEE/ACM International Conference on Software Engineering (ICSE)",
         "tier": "CCF-A",
         "url": "",
         "highlight": false, 
@@ -23,9 +13,39 @@
         "title": "Enhancing Fault Localization in Industrial Software Systems via Contrastive Learning.", 
         "author": ["Chun Li", "Hui Li", "Zhong Li", "Minxue Pan", "Xuandong Li"], 
         "year": "2025",
+        "publisher": "In the ACM International Conference on the Foundations of Software Engineering (FSE)",
+        "tier": "CCF-A",
+        "url": "",
+        "highlight": false, 
+        "equal": false
+    }, 
+    {
+        "title": " Improving Graph Learning-Based Fault Localization with Tailored Semi-Supervised Learning.", 
+        "author": ["Chun Li", "Hui Li", "Zhong Li", "Minxue Pan", "Xuandong Li"], 
+        "year": "2025",
         "publisher": "In the IEEE/ACM International Conference on Software Engineering (ICSE)",
         "tier": "CCF-A",
         "url": "",
+        "highlight": false, 
+        "equal": false
+    }, 
+    {
+        "title": "AACEGEN: Attention Guided Adversarial Code Example Generation for Deep Code Models.", 
+        "author": ["Zhong Li", "Chong Zhang", "Minxue Pan", "Tian Zhang", "Xuandong Li"], 
+        "year": "2024",
+        "publisher": "In the IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+        "tier": "CCF-A",
+        "url": "https://dl.acm.org/doi/10.1145/3691620.3695500",
+        "highlight": false, 
+        "equal": false
+    }, 
+    {
+        "title": "Prioritizing Test Inputs for DNNs Using Training Dynamics.", 
+        "author": ["Jian Shen", "Zhong Li", "Minxue Pan", "Xuandong Li"], 
+        "year": "2024",
+        "publisher": "In the IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+        "tier": "CCF-A",
+        "url": "https://dl.acm.org/doi/10.1145/3691620.3695498",
         "highlight": false, 
         "equal": false
     }, 
@@ -45,7 +65,7 @@
         "year": "2024",
         "publisher": "In the Asia-Pacific Symposium on Internetware (Internetware)",
         "tier": "CCF-C",
-        "url": "",
+        "url": "https://dl.acm.org/doi/10.1145/3671016.3671377",
         "highlight": false,
         "equal": false
     }, 
@@ -65,7 +85,7 @@
         "year": "2024",
         "publisher": "In the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)",
         "tier": "CCF-A",
-        "url": "",
+        "url": "https://dl.acm.org/doi/10.1145/3650212.3652125",
         "highlight": false,
         "equal": false
     }, 
