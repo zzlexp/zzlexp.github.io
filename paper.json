@@ -1,11 +1,21 @@
 [
     {
-        "title": " GVI: Guided Vulnerability Imagination for Boosting Deep Vulnerability Detectors", 
+        "title": "PReMM: LLM-Based Program Repair for Multi-Method Bugs via Divide and Conquer.", 
+        "author": ["Linna Xie", "Zhong Li", "Yu Pei", "Zhongzhen Wen", "Kui Liu", "Tian Zhang", "Xuandong Li"], 
+        "year": "2025",
+        "publisher": "In the 2025 volume of PACMPL(OOPSLA)",
+        "tier": "CCF-A",
+        "url": "",
+        "highlight": true, 
+        "equal": false
+    }, 
+    {
+        "title": "GVI: Guided Vulnerability Imagination for Boosting Deep Vulnerability Detectors.", 
         "author": ["Heng Yong", "Zhong Li", "Minxue Pan", "Tian Zhang", "Jianhua Zhao", "Xuandong Li"], 
         "year": "2025",
         "publisher": "In the IEEE/ACM International Conference on Software Engineering (ICSE)",
         "tier": "CCF-A",
-        "url": "",
+        "url": "https://www.computer.org/csdl/proceedings-article/icse/2025/056900a750/251mHqiWAaQ",
         "highlight": false, 
         "equal": false
     }, 
@@ -15,7 +25,7 @@
         "year": "2025",
         "publisher": "In the IEEE/ACM International Conference on Software Engineering (ICSE)",
         "tier": "CCF-A",
-        "url": "",
+        "url": "https://pppppkun.github.io/files/icse25.pdf",
         "highlight": false, 
         "equal": false
     }, 
@@ -25,7 +35,7 @@
         "year": "2025",
         "publisher": "In the ACM International Conference on the Foundations of Software Engineering (FSE)",
         "tier": "CCF-A",
-        "url": "",
+        "url": "https://dl.acm.org/doi/10.1145/3715788",
         "highlight": false, 
         "equal": false
     }, 
