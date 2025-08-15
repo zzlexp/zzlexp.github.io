@@ -3,7 +3,7 @@
         "title": "PReMM: LLM-Based Program Repair for Multi-Method Bugs via Divide and Conquer.", 
         "author": ["Linna Xie", "Zhong Li", "Yu Pei", "Zhongzhen Wen", "Kui Liu", "Tian Zhang", "Xuandong Li"], 
         "year": "2025",
-        "publisher": "In the 2025 volume of PACMPL(OOPSLA)",
+        "publisher": "In the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)",
         "tier": "CCF-A",
         "url": "",
         "highlight": true, 
